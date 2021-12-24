@@ -1,0 +1,17 @@
+body{
+    background-color: #22396a;
+    color: white;
+}
+.Heading{
+    color: #31bb66;
+}
+a {
+    color: red;
+}
+.image{
+    text-align: center;
+}
+.block{
+    background-color:#11244d;
+    text-align: center;
+}
